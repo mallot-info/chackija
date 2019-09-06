@@ -3,9 +3,9 @@
   "version": "1.0.1",
   "description": "",
   "keywords": [],
-  "main": "dist/chuckija.umd.js",
-  "module": "dist/chuckija.es5.js",
-  "typings": "dist/types/chuckija.d.ts",
+  "main": "dist/chackija.umd.js",
+  "module": "dist/chackija.es5.js",
+  "typings": "dist/types/chackija.d.ts",
   "files": [
     "dist"
   ],
