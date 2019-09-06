@@ -1,6 +1,6 @@
 {
-  "name": "chuckija",
-  "version": "1.1.1",
+  "name": "@mallot/chackija",
+  "version": "1.0.1",
   "description": "",
   "keywords": [],
   "main": "dist/chuckija.umd.js",
